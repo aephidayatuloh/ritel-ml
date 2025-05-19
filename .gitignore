@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+
+data/text_label.data.csv
