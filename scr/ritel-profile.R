@@ -83,10 +83,7 @@ grid.arrange(
 cluster_result <- cluster_result %>% 
   mutate(
     cluster_label = case_when(
-      # Pelanggan loyal, belanja rutin, spending sedang
       .pred_cluster == "Cluster_1" ~ "Regular mid-spenders", 
-      
-      # Pelanggan loyalitas tinggi tapi frekuensi belanja menurun
       .pred_cluster == "Cluster_2" ~ "Established Family Shoppers", 
       .pred_cluster == "Cluster_3" ~ "Almost-Churn", 
       .pred_cluster == "Cluster_4" ~ "High-Value Active", 
