@@ -1,0 +1,28 @@
+productID,ProductName,ProductCategory,ProductLevel
+1,A 3,A,Original
+2,B 4,B,Original
+3,A G,A,Premium
+4,B G,B,Premium
+9,A G FOR HOME KIOS,A,Premium
+10,B G FOR HOME KIOS,B,Premium
+12,B G ALFA PROMO,B,Premium
+13,B G ALFA PROMO,B,Premium
+14,A G ALFA PROMO,A,Premium
+15,A G ALFA PROMO,A,Premium
+16,A G PROMO INDOMARET,A,Premium
+17,B G INDOMARET,B,Premium
+18,C G,C,Premium
+19,C G HDS,C,Premium
+20,B G HDS,B,Premium
+22,A G,A,Premium
+23,A G HONEY,A,Premium
+24,B G,B,Premium
+25,C G,C,Premium
+26,B,B,Original
+27,A,A,Original
+39,A G 17,A,Premium
+40,B G 17,B,Premium
+49,A ULTIMATE,A,Ultimate
+52,A 2021,A,Original
+53,B 2021,B,Original
+54,A MADU,A,Original
